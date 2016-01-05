@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<placeholders>
+		<holepunch_template>
+			<block>core/template</block>
+			<template>holepunch/template.phtml</template>
+			<name>holepunch.template</name>
+			<placeholder>HOLEPUNCH_TEMPLATE</placeholder>
+			<container>Ryaan_Holepunch_Model_Container</container>
+		</holepunch_template>
+	</placeholders>
+</config>

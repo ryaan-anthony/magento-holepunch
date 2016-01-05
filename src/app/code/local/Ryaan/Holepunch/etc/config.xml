@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Ryaan_Holepunch>
+            <version>1.0.0</version>
+        </Ryaan_Holepunch>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <ryaan_holepunch>
+                    <file>holepunch.xml</file>
+                </ryaan_holepunch>
+            </updates>
+        </layout>
+    </frontend>
+</config>
